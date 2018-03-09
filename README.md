@@ -1,2 +1,0 @@
-# legendary-spoon
-Learning GitHub
